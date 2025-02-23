@@ -95,7 +95,6 @@ This is the backend service for the "RememberWords" application, built with [Fas
    ```bash
    git clone https://github.com/duasong111/RememberWordsBacken.git
    cd RememberWordsBacken
-
 2.**安装依赖** 
  ``bash确保已安装 Python 3.7+，然后运行：
  ```bash
@@ -117,4 +116,7 @@ Uvicorn
 （根据需要添加其他依赖）
 贡献
 欢迎提交问题或拉取请求来改进这个项目！
+
+---
+
 ![Image](https://github.com/user-attachments/assets/34d3f4c2-3d0c-4850-b326-48bb668e540f)
