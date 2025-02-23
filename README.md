@@ -119,4 +119,3 @@ Uvicorn
 
 ---
 
-![Image](https://github.com/user-attachments/assets/34d3f4c2-3d0c-4850-b326-48bb668e540f)
